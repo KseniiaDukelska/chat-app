@@ -1,0 +1,63 @@
+
+
+
+.form {
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border-radius: 15px;
+  }
+  
+  .input {
+    border: none;
+    padding: 5%;
+    font-size: 1.2em;
+    border-radius: 15px;
+    flex-grow:2;
+
+  }
+  
+  input:focus, textarea:focus, select:focus{
+    outline: none;
+  }
+  
+  .sendButton {
+    color: #fff !important;
+    text-transform: uppercase;
+    text-decoration: none;
+    background: #2979FF;
+    padding: 20px;
+    border-radius: 60px;
+    border: none;
+    width: 15%;
+  }
+
+  .sendButton:hover {
+    transition: all .5s ease;
+    background: #283c86;
+  }
+  .sendButton:hover {
+    background: #283c86;
+  }
+
+
+  @media (min-width: 390px) and (max-width: 1200px) {
+
+    .input {
+      padding: 5%;
+    }
+    
+    
+    .sendButton {
+      padding: 10px;
+      border-radius: 40px;
+      border: none;
+      width: auto;
+      margin-right: 5px;
+    }
+
+    .sendButton:hover {
+      background: #2979FF;
+    }
+
+  }
