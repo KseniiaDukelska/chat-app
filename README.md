@@ -1,4 +1,4 @@
-# Chat App Readme
+# Chat App 
 
 Welcome to the Chat App! This application allows users to communicate with each other in real-time through a simple and user-friendly interface. This README will guide you through the setup and usage of the Chat App.
 
