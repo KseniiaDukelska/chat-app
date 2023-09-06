@@ -4,6 +4,8 @@ Welcome to the Chat App! This application allows users to communicate with each 
 
 ![Chat App Screenshot](![image](https://github.com/KseniiaDukelska/chat-app/assets/109369501/a44de1fc-0b87-4c61-8530-137afd5e5dd2))
 
+![image](https://github.com/KseniiaDukelska/chat-app/assets/109369501/d71aa269-c4f4-4cd1-8ff2-f29c4f15a905)
+
 ## Prerequisites
 
 Before you begin, ensure you have the following prerequisites installed:
