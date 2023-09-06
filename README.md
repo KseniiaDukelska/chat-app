@@ -21,8 +21,14 @@ Follow these steps to set up and run the Chat App:
    Clone the Chat App repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/chat-app.git
+   git clone https://github.com/KseniiaDukelska/chat-app.git
    cd chat-app
    npm install
    npm run server
-   npm run client
+   npm run client ```
+
+2. **Enjoy**
+
+   ![Chat App Screenshot](https://github.com/KseniiaDukelska/chat-app/assets/109369501/9ce9125a-7fdf-4d74-a22a-16f5cd0362d6)
+
+
