@@ -27,7 +27,7 @@ Follow these steps to set up and run the Chat App:
    npm run server
    npm run client ```
 
-2. **Enjoy**
+## Enjoy
 
    ![Chat App Screenshot](https://github.com/KseniiaDukelska/chat-app/assets/109369501/9ce9125a-7fdf-4d74-a22a-16f5cd0362d6)
 
