@@ -2,7 +2,8 @@
 
 Welcome to the Chat App! This application allows users to communicate with each other in real-time through a simple and user-friendly interface. This README will guide you through the setup and usage of the Chat App.
 
-![Chat App Screenshot](blob:https://web.telegram.org/ad3b8a91-7202-47d9-b006-23c92b28c990)
+![Chat App Screenshot](![image](https://github.com/KseniiaDukelska/chat-app/assets/109369501/a44de1fc-0b87-4c61-8530-137afd5e5dd2)
+)
 
 ## Prerequisites
 
