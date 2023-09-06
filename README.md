@@ -22,3 +22,7 @@ Follow these steps to set up and run the Chat App:
 
    ```bash
    git clone https://github.com/yourusername/chat-app.git
+   cd chat-app
+   npm install
+   npm run server
+   npm run client
